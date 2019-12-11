@@ -1,7 +1,7 @@
-#Stellar
+# Stellar
 API accepts JSON format data
 
-Routes are:
+Routes are: </br>
 Get - api/snippets/id
 Uses a number for id, will fetch specific snippet
 
